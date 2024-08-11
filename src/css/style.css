@@ -198,6 +198,7 @@ body{
     height: 70px;
     border-radius: 6px;
     border: 2px solid rgb(214, 224, 230);
+background-color: rgb(214, 224, 230);
 
     font-family: "Poppins", sans-serif;
     font-weight: 400;
@@ -205,5 +206,6 @@ body{
     padding: 0 20px;
     }
     .file input{padding-top: 20px;
+        background-color:rgb(214, 224, 230);
         
     }
