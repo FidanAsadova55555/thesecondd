@@ -209,3 +209,10 @@ background-color: rgb(214, 224, 230);
         background-color:rgb(214, 224, 230);
         
     }
+    .stround input{
+        margin-top: 20px;
+        
+    }
+    .ndround input{
+        margin-top: 20px;
+    }
